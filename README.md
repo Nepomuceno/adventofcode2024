@@ -1,6 +1,6 @@
-# Advent Of Code 2023
+# Advent Of Code 2024
 
-Solving the Advent of code 2023 https://adventofcode.com/2023/
+Solving the Advent of code 2024 https://adventofcode.com/2023/
 
 **This year in python 🐍**
 
